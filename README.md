@@ -1,6 +1,6 @@
- a# tech-mod
+# tech-mod
 
-A minecraft 1.7.10 mod
+**A minecraft 1.7.10 mod
 
 This mod allows you to do things like making ICs and PCBs
 
