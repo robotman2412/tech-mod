@@ -14,7 +14,7 @@ EVERYTHING USED TO MAKE THIS MOD, WITH THE EXCEPTION OF Minecraft Forge for 1.7.
 
 You are allowed to make expansions, give ideas and make compatibility mods for this mod.
 
-This mod 
+This mod has a custom license, wich can be found [here](../blob/master/LICENSE.md).
 
 Intentions are compatibility for ComputerCraft, BuildCraft and ProjectRed.
 Compatibility for OpenComputers is left to other modders for now.
