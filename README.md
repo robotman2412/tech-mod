@@ -9,8 +9,8 @@ Errors, bugs and glitches are waiting to ruin your day.
 
 This mod is currently not released because of lacking functionality.
 
-**DO NOT TAKE CREDIT FOR ANYTHING RELATED TO MAKING AND PUBLISHING THIS MOD
-OR ANYTHING USED TO MAKE THIS MOD, WITH THE EXCEPTION OF Minecraft Forge for 1.7.10, GIMP 2 AND Eclipse.**
+**DO NOT TAKE CREDIT FOR ANYTHING RELATED TO MAKING AND PUBLISHING THIS MOD.
+EVERYTHING USED TO MAKE THIS MOD BELONGS TO IT, WITH THE EXCEPTION OF Minecraft Forge for 1.7.10, GIMP 2 AND Eclipse.**
 
 You are allowed to make expansions, give ideas and make compatibility mods for this mod.
 
