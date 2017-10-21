@@ -16,4 +16,11 @@
 
 public distribution:
 - link to this page.
-- clearly give credit to Julian Scheffers and the contributors
+- clearly give credit to Julian Scheffers and the contributors.
+modafication:
+- link to this page.
+- clearly give credit to Julian Scheffers and the contributors for the base mod.
+reviews
+- link to this page.
+- clearly give credit to Julian Scheffers and the contributors.
+- link to this mod's how to use **OR** copy/paste it.
