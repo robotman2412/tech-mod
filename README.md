@@ -14,6 +14,6 @@ EVERYTHING USED TO MAKE THIS MOD BELONGS TO IT, WITH THE EXCEPTION OF Minecraft 
 
 You are allowed to make expansions, give ideas and make compatibility mods for this mod.
 
-This mod has a custom license, wich can be found [here](../master/LICENSE.md)
+This mod has a custom license, wich can be found [here](../master/LICENSE.md).
 
 Intentions are compatibility for ComputerCraft, BuildCraft and ProjectRed.
