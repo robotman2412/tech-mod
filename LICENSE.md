@@ -4,6 +4,15 @@
 
 **without exceptions, these are the basic permissions**
 
-| ALLOWED                 | DENIED                  | CONDITIONAL             |
+| ACCEPTED                | DENIED                  | CONDITIONAL             |
 |:-----------------------:|:-----------------------:|:-----------------------:|
 | private distribution    | warranty                | public distribution     |
+| any kind of use         | use of content*         | modafication            |
+| expansion               |                         | reviews                 |
+
+*use of content: using any images or textures from the mod
+
+**and now, for the conditional permissions**
+
+public distribution:
+- link to this page.
