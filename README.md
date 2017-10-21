@@ -2,7 +2,7 @@
 
 A minecraft 1.7.10 mod
 
-Ehis mod allows you to do things like making ICs and PCBs
+This mod allows you to do things like making ICs and PCBs
 
 WARNING: this mod is in BETA and is very UNSTABLE at the moment.
 Errors, bugs and glitches are waiting to ruin your day.
