@@ -16,3 +16,4 @@
 
 public distribution:
 - link to this page.
+- clearly give credit to Julian Scheffers and the contributors
