@@ -12,6 +12,7 @@
 | expansion               | aditional limitations** | reviews                 |
 
 *use of content: using any images or textures from the mod.
+
 **aditional limitations: you may not restrict ANYONE more then this license already does. this includes amoung other things applying legal terms to restrict others from doing anything the license accepts.
 
 **and now, for the conditional permissions**
