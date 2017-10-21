@@ -18,3 +18,5 @@ This mod has a custom license, wich can be found [here](../master/LICENSE.md).
 
 Intentions are compatibility for ComputerCraft, BuildCraft and ProjectRed.
 Compatibility for OpenComputers is left to other modders for now.
+
+<span style="color:blue">some <em>blue</em> text</span>.
