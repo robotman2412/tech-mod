@@ -15,14 +15,15 @@
 **and now, for the conditional permissions**
 
 public distribution:
-- link to this page.
-- clearly give credit to Julian Scheffers and the contributors.
+- **DO NOT** rename
 
 modafication:
-- link to this page.
-- clearly give credit to Julian Scheffers and the contributors for the base mod.
 
 reviews
+- if you have how to use, copy or link it from this repository.
+
+for all uses, modafication, expansion or distributions, you have to
 - link to this page.
 - clearly give credit to Julian Scheffers and the contributors.
-- link to this mod's how to use **OR** copy/paste it.
+
+***test***
